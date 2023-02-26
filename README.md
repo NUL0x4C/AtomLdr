@@ -1,7 +1,11 @@
 <h2 align="center">
 AtomLdr: A DLL loader with evasive features
 </h2>
+</br>
 
+### Disclaimer
+
+#### This loader utilizes techniques taught in MalDev Academy. The training will be launched in the upcoming weeks on [maldevacademy.com](maldevacademy.com).
 
 </br>
 
